@@ -58,9 +58,9 @@ $ git clone https://github.com/Manimaran-SM/Pong_using_PyGame.git
 
 ## Output:
 <p align="center">
-  <img src="https://github.com/Manimaran-SM/Pong_using_PyGame/blob/master/output1.png" height="400" width="800" alt="Output">
-  <br>
-  <img src="https://github.com/Manimaran-SM/Pong_using_PyGame/blob/master/output.png" height="400" width="800" alt="Output">
+  <img src="https://github.com/Manimaran-SM/Pong_using_PyGame/blob/master/output1.png" height="400" width="600" alt="Output">
+  <br><br>
+  <img src="https://github.com/Manimaran-SM/Pong_using_PyGame/blob/master/output.png" height="400" width="600" alt="Output">
 </p>
 
 ### Note:
