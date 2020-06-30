@@ -8,8 +8,6 @@
 * [Overview](#Overview)
    * [Introduction](#Introduction)
    * [PyGame](#PyGame)
-   * [Challenges Faced](#Challenges_Faced)
-   * [Limitation](#Limitation)
    
 * [Guide](#Guide)
   * [Procedure](#Procedure)
@@ -36,12 +34,6 @@ Pygame is highly portable and runs on nearly every platform and operating system
 >* <b>Fast response to reported bugs.</b> Some bugs are patched within an hour of being reported. Do a search on our mailing list for BUG... you'll see for yourself. Sometimes we suck at bug fixes, but mostly we're pretty good bug fixers. Bug reports are quite rare these days, since a lot of them have been fixed already.
 >* <b>Small amount of code.</b> It does not have hundreds of thousands of lines of code for things you won't use anyway. The core is kept simple, and extra things like GUI libraries, and effects are developed separately outside of pygame.
 >* Refer this site for any PyGame related modules [info](https://devdocs.io/pygame/).
-
-## Challenges_Faced
->* Figuring out the dimension was a quite a tough task. 
-
-## Limitation
->* It will continue the game again and again untill it is force closed.
 
 # Guide:
 ## Procedure
@@ -74,5 +66,5 @@ pip install pygame
 ```
 ## Note:
 >* Given commands works only for windows.
->* python IDE and Following packages must be installed in system.
+>* Python IDE and Following packages must be installed in system.
     
